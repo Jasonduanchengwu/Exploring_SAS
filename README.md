@@ -11,6 +11,7 @@ this repo aims to explore the capabilities of SAS and applications in the indust
 
 An automated report generation SAS macro was created for potential FDA reporting.
 ![](./Images/automated_report.png)
-a list of fixed questions is asked about a specific interest topic (user supplied) like parental approval in this case.
 
-the summary statistics will be produced based on that topic with p-value of relevent test of significance.
+A list of fixed questions is asked about a specific interest topic (user supplied) like parental approval in this case.
+
+Summary statistics will be produced based on that topic with p-value of relevent test of significance.
